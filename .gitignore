@@ -1,0 +1,29 @@
+// Default to ignore
+/*
+
+// Partially ignored folders
+!/System
+/System/*
+!/BGM
+/BGM/*
+
+// Not ignored folder
+!/data/
+
+// Not ignored files
+!/BGM/iris.mp3
+!/.gitignore
+!/vision-ro.exe
+!/vision-ro-update.bat
+!/VDATA.INI
+!/palettes.grf
+!/opensetup.exe
+!/opensetup.ini
+!/rsu-kro-rag-lite.exe
+!/rsu-kro-rag-lite.ini
+!/rsu-kro-renewal-lite.exe
+!/rsu-kro-renewal-lite.ini
+!/System/itemInfo_vision.lua
+
+// System files
+Thumb.db
