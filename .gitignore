@@ -2,13 +2,12 @@
 /*
 
 // Partially ignored folders
-!/System
-/System/*
 !/BGM
 /BGM/*
 
 // Not ignored folder
 !/data/
+!/System/
 
 // Not ignored files
 !/BGM/iris.mp3
