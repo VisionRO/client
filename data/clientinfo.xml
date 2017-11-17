@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Vision RO</desc>
+	<servicetype>america</servicetype>
+	<servertype>primary</servertype>
+	<connection>
+		<display>Vision RO</display>
+		<address>game.vision-ro.net</address>
+		<port>6900</port>
+      	<version>55</version>
+      	<langtype>1</langtype>
+		<registrationweb>http://vision-ro.net/?module=account&action=create</registrationweb>
+		<aid>
+		</aid>
+		<loading>
+			<image>vision_loading01.jpg</image>
+			<image>vision_loading02.jpg</image>
+			<image>vision_loading03.jpg</image>
+			<image>vision_loading04.jpg</image>
+			<image>vision_loading05.jpg</image>
+			<image>vision_loading06.jpg</image>
+		</loading>
+	</connection>
+</clientinfo>
