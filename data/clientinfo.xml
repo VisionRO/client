@@ -11,6 +11,16 @@
       	<langtype>1</langtype>
 		<registrationweb>http://vision-ro.net/?module=account&action=create</registrationweb>
 		<aid>
+            <admin>2000000</admin>
+            <admin>2000001</admin>
+            <admin>2000002</admin>
+            <admin>2000003</admin>
+            <admin>2000004</admin>
+            <admin>2000005</admin>
+            <admin>2000006</admin>
+            <admin>2000007</admin>
+            <admin>2000008</admin>
+            <admin>2000009</admin>
 		</aid>
 		<loading>
 			<image>vision_loading01.jpg</image>
