@@ -6,10 +6,12 @@
 /BGM/*
 
 // Not ignored folder
+!/vpatcher/
 !/data/
 !/System/
 
 // Not ignored files
+!/vision-ro-update-patcher.bat
 !/BGM/iris.mp3
 !/.gitignore
 !/vision-ro.exe
