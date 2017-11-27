@@ -15,6 +15,7 @@
 !/BGM/iris.mp3
 !/.gitignore
 !/vision-ro.exe
+!/vision-ro-debug.exe
 !/vision-ro-update.bat
 !/VDATA.INI
 !/palettes.grf
