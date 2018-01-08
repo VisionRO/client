@@ -18,6 +18,8 @@
 !/vision-ro-debug.exe
 !/vision-ro-update.bat
 !/VDATA.INI
+!/dinput.dll
+!/dinput.ini
 !/palettes.grf
 !/vdata.grf
 !/opensetup.exe
